@@ -7,13 +7,14 @@ body {
 }
 
 .btn {
+    display:block;
     background-color: #000000;
     color: #ffffff;
-    padding: 0.5em 1em;
+    padding: 1em;
     border: 3px solid #666666;
-    margin: 0 auto;
+    margin: 1em auto;
     font-weight: 700;
-    width: 100%;
+    width: 50%;
 }
 
 
@@ -27,6 +28,7 @@ body {
     margin: 5em auto 3rem auto;
     border: 0.2rem solid #000000;
     background-color: #c0c0c0;
+    border-radius: 10%;
 }
 
 #value {
